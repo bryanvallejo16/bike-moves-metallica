@@ -7,7 +7,7 @@ Follow the steps in this coding tutorial to complete this practice:
 
 ## Outcomes
 1. A web map in KeplerGl highlighting the bike movements to Metallica concert [Web map here](https://bryanvallejo16.github.io/bike-moves-metallica/root/metallica_moves.html)
-![gl](img/metallica-moves.gif)
+![gl](img/metallica-moves.png)
 
 
 2. A static map in QGIS highlighting the bike movements to Metallica concert
